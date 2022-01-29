@@ -1,0 +1,6 @@
+pyautogui
+keyboard
+pyalsaaudio
+pynput
+screen_brightness_control
+webbrowser
